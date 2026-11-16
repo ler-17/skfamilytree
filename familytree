@@ -1,0 +1,434 @@
+[
+  {
+    "name": "Chloe M",
+    "families": [
+      "la fam"
+    ],
+    "parent": null,
+    "children": [
+      "Carly S"
+    ],
+    "marriages": []
+  },
+  {
+    "name": "Carly S",
+    "families": [
+      "la fam"
+    ],
+    "parent": "Chloe M",
+    "children": [
+      "Sara C",
+      "Megan B"
+    ],
+    "marriages": []
+  },
+  {
+    "name": "Sara C",
+    "families": [
+      "la fam"
+    ],
+    "parent": "Carly S",
+    "children": [
+      "Vivian C"
+    ],
+    "marriages": []
+  },
+  {
+    "name": "Megan B",
+    "families": [
+      "la fam"
+    ],
+    "parent": "Carly S",
+    "children": [],
+    "marriages": []
+  },
+  {
+    "name": "Vivian C",
+    "families": [
+      "la fam"
+    ],
+    "parent": "Sara C",
+    "children": [
+      "Cari"
+    ],
+    "marriages": []
+  },
+  {
+    "name": "Cari",
+    "families": [
+      "la fam"
+    ],
+    "parent": "Vivian C",
+    "children": [
+      "Emily",
+      "Zoe L"
+    ],
+    "marriages": []
+  },
+  {
+    "name": "Emily",
+    "families": [
+      "la fam"
+    ],
+    "parent": "Cari",
+    "children": [
+      "Aly S"
+    ],
+    "marriages": []
+  },
+  {
+    "name": "Zoe L",
+    "families": [
+      "la fam"
+    ],
+    "parent": "Cari",
+    "children": [],
+    "marriages": []
+  },
+  {
+    "name": "Aly S",
+    "families": [
+      "la fam"
+    ],
+    "parent": "Emily",
+    "children": [
+      "Phoebe"
+    ],
+    "marriages": []
+  },
+  {
+    "name": "Phoebe",
+    "families": [
+      "la fam"
+    ],
+    "parent": "Aly S",
+    "children": [
+      "Jenny P",
+      "Olivia H"
+    ],
+    "marriages": []
+  },
+  {
+    "name": "Jenny P",
+    "families": [
+      "la fam"
+    ],
+    "parent": "Phoebe",
+    "children": [
+      "Kristina M",
+      "Paige H"
+    ],
+    "marriages": []
+  },
+  {
+    "name": "Olivia H",
+    "families": [
+      "la fam"
+    ],
+    "parent": "Phoebe",
+    "children": [
+      "Lucy B"
+    ],
+    "marriages": [
+      "Astrid F ♥ Olivia H"
+    ]
+  },
+  {
+    "name": "Kristina M",
+    "families": [
+      "la fam"
+    ],
+    "parent": "Jenny P",
+    "children": [],
+    "marriages": []
+  },
+  {
+    "name": "Paige H",
+    "families": [
+      "la fam"
+    ],
+    "parent": "Jenny P",
+    "children": [
+      "Natalie K",
+      "Brooklyn S"
+    ],
+    "marriages": []
+  },
+  {
+    "name": "Natalie K",
+    "families": [
+      "la fam"
+    ],
+    "parent": "Paige H",
+    "children": [
+      "Kate S"
+    ],
+    "marriages": []
+  },
+  {
+    "name": "Kate S",
+    "families": [
+      "la fam"
+    ],
+    "parent": "Natalie K",
+    "children": [],
+    "marriages": []
+  },
+  {
+    "name": "Brooklyn S",
+    "families": [
+      "la fam"
+    ],
+    "parent": "Paige H",
+    "children": [
+      "Ellie A",
+      "Sofia C"
+    ],
+    "marriages": []
+  },
+  {
+    "name": "Ellie A",
+    "families": [
+      "la fam"
+    ],
+    "parent": "Brooklyn S",
+    "children": [],
+    "marriages": []
+  },
+  {
+    "name": "Sofia C",
+    "families": [
+      "la fam"
+    ],
+    "parent": "Brooklyn S",
+    "children": [],
+    "marriages": []
+  },
+  {
+    "name": "Lucy B",
+    "families": [
+      "la fam",
+      "fluttercup fam"
+    ],
+    "parent": "Olivia H",
+    "children": [
+      "Alexa M"
+    ],
+    "marriages": []
+  },
+  {
+    "name": "Alexa M",
+    "families": [
+      "la fam",
+      "fluttercup fam"
+    ],
+    "parent": "Lucy B",
+    "children": [
+      "Lauren R"
+    ],
+    "marriages": []
+  },
+  {
+    "name": "Lauren R",
+    "families": [
+      "la fam",
+      "fluttercup fam"
+    ],
+    "parent": "Alexa M",
+    "children": [
+      "Sarah M",
+      "Teresa R"
+    ],
+    "marriages": []
+  },
+  {
+    "name": "Sarah M",
+    "families": [
+      "la fam",
+      "fluttercup fam"
+    ],
+    "parent": "Lauren R",
+    "children": [],
+    "marriages": []
+  },
+  {
+    "name": "Teresa R",
+    "families": [
+      "la fam",
+      "fluttercup fam"
+    ],
+    "parent": "Lauren R",
+    "children": [],
+    "marriages": []
+  },
+  {
+    "name": "Lindsay G",
+    "families": [
+      "tequila family"
+    ],
+    "parent": null,
+    "children": [
+      "Emily C"
+    ],
+    "marriages": []
+  },
+  {
+    "name": "Emily C",
+    "families": [
+      "tequila family"
+    ],
+    "parent": "Lindsay G",
+    "children": [
+      "Meredith C"
+    ],
+    "marriages": []
+  },
+  {
+    "name": "Meredith C",
+    "families": [
+      "tequila family"
+    ],
+    "parent": "Emily C",
+    "children": [
+      "Caroline"
+    ],
+    "marriages": []
+  },
+  {
+    "name": "Caroline",
+    "families": [
+      "tequila family"
+    ],
+    "parent": "Meredith C",
+    "children": [
+      "AllyP"
+    ],
+    "marriages": []
+  },
+  {
+    "name": "AllyP",
+    "families": [
+      "tequila family"
+    ],
+    "parent": "Caroline",
+    "children": [
+      "Astrid F",
+      "Zoe N"
+    ],
+    "marriages": []
+  },
+  {
+    "name": "Astrid F",
+    "families": [
+      "tequila family"
+    ],
+    "parent": "AllyP",
+    "children": [],
+    "marriages": [
+      "Astrid F ♥ Olivia H"
+    ]
+  },
+  {
+    "name": "Zoe N",
+    "families": [
+      "tequila family"
+    ],
+    "parent": "AllyP",
+    "children": [],
+    "marriages": []
+  },
+  {
+    "name": "Sav B",
+    "families": [
+      "la fam",
+      "tequila family"
+    ],
+    "parent": "Astrid F ♥ Olivia H",
+    "children": [],
+    "marriages": []
+  },
+  {
+    "name": "Zhane",
+    "families": [
+      "pink fam"
+    ],
+    "parent": null,
+    "children": [
+      "Eleanor",
+      "Angie",
+      "Lauren H"
+    ],
+    "marriages": []
+  },
+  {
+    "name": "Eleanor",
+    "families": [
+      "pink fam"
+    ],
+    "parent": "Zhane",
+    "children": [
+      "Mansi L"
+    ],
+    "marriages": []
+  },
+  {
+    "name": "Angie",
+    "families": [
+      "pink fam"
+    ],
+    "parent": "Zhane",
+    "children": [
+      "Isabella G"
+    ],
+    "marriages": []
+  },
+  {
+    "name": "Lauren H",
+    "families": [
+      "pink fam"
+    ],
+    "parent": "Zhane",
+    "children": [],
+    "marriages": []
+  },
+  {
+    "name": "Mansi L",
+    "families": [
+      "pink fam"
+    ],
+    "parent": "Eleanor",
+    "children": [],
+    "marriages": []
+  },
+  {
+    "name": "Isabella G",
+    "families": [
+      "pink fam"
+    ],
+    "parent": "Angie",
+    "children": [
+      "Isa L"
+    ],
+    "marriages": []
+  },
+  {
+    "name": "Isa L",
+    "families": [
+      "pink fam"
+    ],
+    "parent": "Isabella G",
+    "children": [
+      "Helen G"
+    ],
+    "marriages": []
+  },
+  {
+    "name": "Helen G",
+    "families": [
+      "pink fam"
+    ],
+    "parent": "Isa L",
+    "children": [],
+    "marriages": []
+  }
+]
